@@ -6,9 +6,7 @@ This program creates a banking system which allows for the creation of an accoun
 It was created in Java using the Visual Studio Code IDE and makes use of Java's Scanner for user input and Random for the account number 
 
 How to Run
-1. Clone the repoitory:
-   git clone https://github.com/Ryden-E/simple-banking-system.git
-   cd simple-banking-system
+1. Clone the repoitory
 2. Compile the Java file:
    javac SimpleBankingSystem.java
 3. Run the program:
